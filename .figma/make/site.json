@@ -1,0 +1,15 @@
+{
+  "title": "BHS Skales — Luxury Imports",
+  "description": "A curated import house drawing from the finest fashion markets of Dubai, Milan, Istanbul, and Paris, delivered with precision to your door in Lagos.",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "openGraph": {
+    "image": "https://bhsskales.com/og-image.jpg"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
